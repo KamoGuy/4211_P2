@@ -1,5 +1,5 @@
 
-# Kamolchai Hang,Zhang CSCI4211,14/11/2021  
+# Kamolchai Hang, Prof. Zhang CSCI4211,14/11/2021  
 # Java,simulation.java,simulation.class
 
 ## Compilation
