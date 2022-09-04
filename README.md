@@ -2,6 +2,9 @@
 # Kamolchai Hang, Prof. Zhang CSCI4211,14/11/2021  
 # Java,simulation.java,simulation.class
 
+## Disclaimer 
+This may or may not be the best or correct representation as it is based on what I understand. I am not an expert as I am still learning.
+
 ## Compilation
 
 1. Make sure to have a Java SDK installed
